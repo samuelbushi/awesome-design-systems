@@ -54,7 +54,7 @@ See more design systems [here](https://github.com/alexpate/awesome-design-system
 - [Design.system](https://design.systems/) - Resources for the design systems community.
 - [Super friendly](https://superfriendlydesign.systems/) - We help in-house teams make better digital products with design systems.
 - [AI Web Design Codex](https://github.com/Eneryleen/ai-web-design-codex) - Knowledge base of 60 cross-linked guides on web design, UX, accessibility, and conversion, for humans and AI agents.
-- [UIZZE](https://uizze.com) - UI reference research for developers and coding agents: search 800,000+ real web and iOS screens, define product-specific design contracts, and run an anti-UI-slop finish gate before shipping.
+- [UIZZE](https://uizze.com) - Free MIT anti-ui-slop Skill for developers and coding agents; the optional full UIZZE workflow searches 800,000+ real web and iOS screens, defines product-specific design contracts, and runs a hard finish gate before shipping.
 
 ## UI Design tools
 
